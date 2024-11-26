@@ -1,4 +1,4 @@
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-backDev&show_icons=true&theme=radical&locale=pt-br&rank_icon=github)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-backDev&layout=compact&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-backDev&show_icons=true&theme=radical&locale=pt-br&rank_icon=github)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-backDev&layout=compact&theme=radical&locale=pt-br)
 
 
 ## Redes Sociais
