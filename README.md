@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-backDev&theme=radical&locale=pt-br&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-backDev&layout=compact&theme=radical&locale=pt-br)
-
-
 ## Redes Sociais
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
