@@ -1,6 +1,6 @@
 <p><a><img align="center" src="./readme-header.png"></a></p>
 
-I'm passionate about BackEnd programming
+I'm passionate about programming
 
 **About me**
 
