@@ -17,27 +17,29 @@ I'm passionate about programming
 
 **Technologies & Tools**
 
-![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-) ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-) ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-) ![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-) 
+<div align="center">
+  <img alt="Java" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+  <img alt="Javascript" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+  <img alt="Python" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+  <img alt="PHP" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
+</div>
 
+<div align="center">
+  <img alt="React" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+  <img alt="NextJS" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
+  <img alt="Django" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg">
+  <img alt="TailwindCSS" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
+  <img alt="Vite" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vite.svg">
+  <img alt="Spring Boot" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring Boot.svg">
+</div>
 
-![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-) ![Blog](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-) ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
-) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white
-)
+<div align="center">
+  <img alt="MySQL" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
+  <img alt="Postgresql" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+  <img alt="MongoDB" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg">
+  <img alt="SQLite" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQLite.svg">
+</div>
 
-
-![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-) ![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-) ![Blog](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-) ![Blog](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-) 
 
 <markdown-accessiblity-table><table>
 <thead>
