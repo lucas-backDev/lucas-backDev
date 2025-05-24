@@ -20,17 +20,20 @@ I'm passionate about programming
 <div align="center">
   <img alt="Java" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
   <img alt="Javascript" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+  <img alt="CSS" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+  <img alt="HTML" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
   <img alt="Python" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
   <img alt="PHP" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
 </div>
 
 <div align="center">
   <img alt="React" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
-  <img alt="NextJS" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
+  <img alt="Next.js" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
+  <img alt="node.js" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
   <img alt="Django" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg">
   <img alt="TailwindCSS" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
-  <img alt="Vite" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vite.svg">
   <img alt="Spring Boot" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring Boot.svg">
+  <img alt="Vite" height="80" width="80" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vite.svg">
 </div>
 
 <div align="center">
